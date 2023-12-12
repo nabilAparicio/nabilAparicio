@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to offer my services. Embarking on my web development journey over two years ago, I've explored a vast landscape of opportunities and technologies, including React, Next.js, CSS, HTML, Bootstrap, Tailwind, Node.js, Axios, and more. My deep-seated passion for web development and programming drives my continuous learning and creative endeavors. Together, we can craft a story of success and innovation. Let's start this collaborative journey!
+Hello, world! I'm Orlando Nabil. Welcome to my corner of the digital universe. My journey in web development began over two years ago, immersing me in a fascinating world of diverse technologies. I've honed my skills in React, Next.js, CSS, HTML, Bootstrap, Tailwind, Node.js, Axios, and beyond. What fuels me is not just the code I write, but the passion for web development and programming that underpins each of my projects. I believe in the power of continuous learning and the magic of creative thinking. Let's explore this digital landscape together and see where our combined creativity takes us!
 
 * 🌍  I'm based in Panama 🇵🇦
   
