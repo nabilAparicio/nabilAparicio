@@ -27,11 +27,11 @@ Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<p align="center">
   <a href="http://www.github.com/nabilAparicio">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilAparicio&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
   </a>
-
-<p align="center">
+  <a target="_blank" href="https://www.youtube.com/watch?v=mCdA4bJAGGk">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqMmNqaDl6bGdub3JjdG1pcTlvanYyb3VsYzh3NW8wYnozbjZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="50%" />
+    </a>
 </p>
