@@ -7,7 +7,9 @@ Web Developer
 Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to offer my services. Embarking on my web development journey over two years ago, I've explored a vast landscape of opportunities and technologies, including React, Next.js, CSS, HTML, Bootstrap, Tailwind, Node.js, Axios, and more. My deep-seated passion for web development and programming drives my continuous learning and creative endeavors. Together, we can craft a story of success and innovation. Let's start this collaborative journey!
 
 * 🌍  I'm based in Panama 🇵🇦
+  
 * ✉️  You can contact me at [orlando.nabil@gmail.com](mailto:orlando.nabil@gmail.com)
+  
 * ⚡ Fun fact: **Why don't programmers like nature? Because it has too many bugs! 🌿🐜😄**
 
 ### Skills
@@ -24,8 +26,17 @@ Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### Badges
 
-<a href="http://www.github.com/nabilAparicio"><img src="https://github-readme-stats.vercel.app/api?username=nabilAparicio&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="nabilAparicio's GitHub stats" /></a>
+**My GitHub Stats**
 
-<a href="http://www.github.com/nabilAparicio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilAparicio&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nabilAparicio">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilAparicio&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="nabilAparicio's GitHub stats" width="100%" />
+</a>
+
+<a href="http://www.github.com/nabilAparicio">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilAparicio&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+</a>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqMmNqaDl6bGdub3JjdG1pcTlvanYyb3VsYzh3NW8wYnozbjZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100%" />
+
