@@ -26,17 +26,12 @@ Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to
 
 ### Badges
 
-### Badges
+<b>My GitHub Stats</b>
 
-**My GitHub Stats**
+  <a href="http://www.github.com/nabilAparicio">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilAparicio&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  </a>
 
-<a href="http://www.github.com/nabilAparicio">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilAparicio&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="nabilAparicio's GitHub stats" width="100%" />
-</a>
-
-<a href="http://www.github.com/nabilAparicio">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilAparicio&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
-</a>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqMmNqaDl6bGdub3JjdG1pcTlvanYyb3VsYzh3NW8wYnozbjZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100%" />
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqMmNqaDl6bGdub3JjdG1pcTlvanYyb3VsYzh3NW8wYnozbjZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="50%" />
+</p>
