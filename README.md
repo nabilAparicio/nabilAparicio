@@ -8,6 +8,7 @@ Hello friends, I'm Orlando Nabil, a dedicated and talented professional ready to
 
 * 🌍  I'm based in Panama 🇵🇦
 * ✉️  You can contact me at [orlando.nabil@gmail.com](mailto:orlando.nabil@gmail.com)
+* ⚡ Fun fact: **Why don't programmers like nature? Because it has too many bugs! 🌿🐜😄**
 
 ### Skills
 
